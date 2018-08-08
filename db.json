@@ -1,0 +1,71 @@
+{
+  "user": {
+    "account": {
+      "name": "Moe Sargi",
+      "id": "moe_sargi",
+      "followers": 44867,
+      "events": 54,
+      "comments": 339000,
+      "likes": 439000,
+      "isSubscribed": false,
+      "loyalStatus": "silver",
+      "isHorizontal": true,
+      "photo": "./img/user-img.png",
+      "description": "Life can be hard and depressing that is why a Moe Sargi adventure can hange all that from 0 to 100 real quick! From sleeping on deserted islands to exploring abandoned ghost towns, haunted caves and scary tunnel systems, follow my highly addictive and entertaining journey as I keep you motivated, happy, and inspire you to do you and just \"Live A Little\"!",
+      "categories": [
+        {
+          "name": "Live",
+          "id": "live"
+        },
+        {
+          "name": "Become a Loyal",
+          "id": "become_loyal"
+        },
+        {
+          "name": "Videos",
+          "id": "video"
+        },
+        {
+          "name": "About",
+          "id": "about"
+        }
+      ],
+      "isLive": true
+    },
+    "events": [
+      {
+        "campaign_id": 693390,
+        "condition": 2,
+        "date": 1532724381557,
+        "id": 228887,
+        "views": 3598,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/up/2018/07/27/upimg1d1f586f-4b74-41e6-a1d2-ca3e13ede087.jpg",
+        "name": "Islam Makhachev",
+        "v": 3029
+      },
+      {
+        "campaign_id": 693390,
+        "condition": 2,
+        "date": 1523147880982,
+        "id": 200809,
+        "views": 7892,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/up/2018/04/07/upimgee74bae8-1603-49e9-8788-1e95dbfbf4be.jpg",
+        "name": "UFC 223 Islam makhachev",
+        "v": 10347
+      },
+      {
+        "campaign_id": 693390,
+        "condition": 2,
+        "date": 1523147880982,
+        "id": 200807,
+        "views": 11592,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/up/2018/04/07/upimgee74bae8-1603-49e9-8788-1e95dbfbf4be.jpg",
+        "name": "UFC 223 Islam makhachev",
+        "v": 10347
+      }
+    ]
+  }
+}
