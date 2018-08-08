@@ -12,8 +12,7 @@
       "isHorizontal": true,
       "photo": "./img/user-img.png",
       "description": "Life can be hard and depressing that is why a Moe Sargi adventure can hange all that from 0 to 100 real quick! From sleeping on deserted islands to exploring abandoned ghost towns, haunted caves and scary tunnel systems, follow my highly addictive and entertaining journey as I keep you motivated, happy, and inspire you to do you and just \"Live A Little\"!",
-      "categories": [
-        {
+      "categories": [{
           "name": "Live",
           "id": "live"
         },
@@ -32,8 +31,7 @@
       ],
       "isLive": true
     },
-    "events": [
-      {
+    "events": [{
         "campaign_id": 693390,
         "condition": 2,
         "date": 1532724381557,
@@ -65,6 +63,46 @@
         "main_photo": "https://img1.lrs-ext.com/up/2018/04/07/upimgee74bae8-1603-49e9-8788-1e95dbfbf4be.jpg",
         "name": "UFC 223 Islam makhachev",
         "v": 10347
+      },
+      {
+        "campaign_id": 11081,
+        "condition": 2,
+        "date": 1532745926208,
+        "id": 228893,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/es/2018/07/28/essn_228893_1fe488ea-2272-4c3d-be87-976134cd749c.jpg",
+        "name": "Studio Session",
+        "v": 246
+      },
+      {
+        "campaign_id": 11081,
+        "condition": 2,
+        "date": 1532554571904,
+        "id": 228865,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/up/2018/07/25/upimgea7e1ba9-4eaf-4061-b483-c915069dcce3.jpg",
+        "name": "Whoa!!",
+        "v": 365
+      },
+      {
+        "campaign_id": 11081,
+        "condition": 2,
+        "date": 1532552909331,
+        "id": 228863,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/es/2018/07/25/essn_228863_0bcfe581-9604-4192-9826-c9c8ba1aef0b.jpg",
+        "name": "Stressed out, let’s chat",
+        "v": 61
+      },
+      {
+        "campaign_id": 11081,
+        "condition": 2,
+        "date": 1532479813592,
+        "id": 228853,
+        "is_free": true,
+        "main_photo": "https://img1.lrs-ext.com/up/2018/07/24/upimg1a1b392f-d8be-470a-a4dd-c7031fa018b2.jpg",
+        "name": "Side B, live reaction 👀👀👀",
+        "v": 617
       }
     ]
   }
